@@ -1,0 +1,708 @@
+Configuration file: C:/Users/Hp/Desktop/Jekyll-Site/SignalStack/_config.yml
+C:/Ruby34-x64/lib/ruby/3.4.0/win32/registry.rb:2: warning: fiddle/import is found in fiddle, which will no longer be part of the default gems starting from Ruby 4.0.0.
+You can add fiddle to your Gemfile or gemspec to silence this warning.
+            Source: C:/Users/Hp/Desktop/Jekyll-Site/SignalStack
+       Destination: C:/Users/Hp/Desktop/Jekyll-Site/SignalStack/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+      Remote Theme: Using theme just-the-docs/just-the-docs
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import "./support/support";
+  │         ^^^^^^^^^^^^^^^^^^^
+  ╵
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-dark.scss 2:9  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+3 │ @import "./custom/setup";
+  │         ^^^^^^^^^^^^^^^^
+  ╵
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-dark.scss 3:9  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+4 │ @import "./color_schemes/light";
+  │         ^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-dark.scss 4:9  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+6 │ @import "./color_schemes/dark";
+  │         ^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-dark.scss 6:9  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+8 │ @import "./modules";
+  │         ^^^^^^^^^^^
+  ╵
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-dark.scss 8:9  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.get instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+78 │ $sp-1: map-get($spacers, sp-1) !default; // 0.25 rem == 4px
+   │        ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\support\_variables.scss 78:8  @import
+    support\support.scss 1:9                                                                                     @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-dark.scss 2:9                           root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.get instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+79 │ $sp-2: map-get($spacers, sp-2) !default; // 0.5  rem == 8px
+   │        ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\support\_variables.scss 79:8  @import
+    support\support.scss 1:9                                                                                     @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-dark.scss 2:9                           root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.get instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+80 │ $sp-3: map-get($spacers, sp-3) !default; // 0.75 rem == 12px
+   │        ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\support\_variables.scss 80:8  @import
+    support\support.scss 1:9                                                                                     @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-dark.scss 2:9                           root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.get instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+81 │ $sp-4: map-get($spacers, sp-4) !default; // 1    rem == 16px
+   │        ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\support\_variables.scss 81:8  @import
+    support\support.scss 1:9                                                                                     @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-dark.scss 2:9                           root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.get instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+82 │ $sp-5: map-get($spacers, sp-5) !default; // 1.5  rem == 24px
+   │        ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\support\_variables.scss 82:8  @import
+    support\support.scss 1:9                                                                                     @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-dark.scss 2:9                           root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -42.5%)
+color.adjust($color, $lightness: -3%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+11 │ $feedback-color: darken($sidebar-color, 3%) !default;
+   │                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    color_schemes\light.scss 11:18                                                      @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-dark.scss 4:9  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 23.6111111111%)
+color.adjust($color, $lightness: 10%)
+
+More info: https://sass-lang.com/d/color-functions
+
+  ╷
+5 │ $link-color: lighten($blue-000, 10%);
+  │              ^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    color_schemes\dark.scss 5:14                                                        @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-dark.scss 6:9  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -18.8888888889%)
+color.adjust($color, $lightness: -3%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+12 │ $feedback-color: darken($sidebar-color, 3%);
+   │                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    color_schemes\dark.scss 12:18                                                       @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-dark.scss 6:9  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -7.3913043478%)
+color.adjust($color, $lightness: -5%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+61 │         color: darken($link-color, 5%);
+   │                ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\navigation.scss 61:16  @import
+    modules.scss 8:9                                                                                      @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-dark.scss 8:9                    root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -2.9565217391%)
+color.adjust($color, $lightness: -2%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+38 │     color: darken($link-color, 2%);
+   │            ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\buttons.scss 38:12  @import
+    modules.scss 11:9                                                                                  @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-dark.scss 8:9                 root stylesheet
+WARNING: 93 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+3 │ @import "./support/support";
+  │         ^^^^^^^^^^^^^^^^^^^
+  ╵
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-default.scss 3:9  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+4 │ @import "./custom/setup";
+  │         ^^^^^^^^^^^^^^^^
+  ╵
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-default.scss 4:9  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+5 │ @import "./color_schemes/light";
+  │         ^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-default.scss 5:9  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+7 │ @import "./color_schemes/dark";
+  │         ^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-default.scss 7:9  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+9 │ @import "./modules";
+  │         ^^^^^^^^^^^
+  ╵
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-default.scss 9:9  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.get instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+78 │ $sp-1: map-get($spacers, sp-1) !default; // 0.25 rem == 4px
+   │        ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\support\_variables.scss 78:8  @import
+    support\support.scss 1:9                                                                                     @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-default.scss 3:9                        root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.get instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+79 │ $sp-2: map-get($spacers, sp-2) !default; // 0.5  rem == 8px
+   │        ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\support\_variables.scss 79:8  @import
+    support\support.scss 1:9                                                                                     @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-default.scss 3:9                        root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.get instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+80 │ $sp-3: map-get($spacers, sp-3) !default; // 0.75 rem == 12px
+   │        ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\support\_variables.scss 80:8  @import
+    support\support.scss 1:9                                                                                     @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-default.scss 3:9                        root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.get instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+81 │ $sp-4: map-get($spacers, sp-4) !default; // 1    rem == 16px
+   │        ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\support\_variables.scss 81:8  @import
+    support\support.scss 1:9                                                                                     @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-default.scss 3:9                        root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.get instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+82 │ $sp-5: map-get($spacers, sp-5) !default; // 1.5  rem == 24px
+   │        ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\support\_variables.scss 82:8  @import
+    support\support.scss 1:9                                                                                     @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-default.scss 3:9                        root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -42.5%)
+color.adjust($color, $lightness: -3%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+11 │ $feedback-color: darken($sidebar-color, 3%) !default;
+   │                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    color_schemes\light.scss 11:18                                                         @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-default.scss 5:9  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 23.6111111111%)
+color.adjust($color, $lightness: 10%)
+
+More info: https://sass-lang.com/d/color-functions
+
+  ╷
+5 │ $link-color: lighten($blue-000, 10%);
+  │              ^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    color_schemes\dark.scss 5:14                                                           @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-default.scss 7:9  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -18.8888888889%)
+color.adjust($color, $lightness: -3%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+12 │ $feedback-color: darken($sidebar-color, 3%);
+   │                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    color_schemes\dark.scss 12:18                                                          @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-default.scss 7:9  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -7.3913043478%)
+color.adjust($color, $lightness: -5%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+61 │         color: darken($link-color, 5%);
+   │                ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\navigation.scss 61:16  @import
+    modules.scss 8:9                                                                                      @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-default.scss 9:9                 root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -2.9565217391%)
+color.adjust($color, $lightness: -2%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+38 │     color: darken($link-color, 2%);
+   │            ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\buttons.scss 38:12  @import
+    modules.scss 11:9                                                                                  @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-default.scss 9:9              root stylesheet
+WARNING: 93 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import "./support/support";
+  │         ^^^^^^^^^^^^^^^^^^^
+  ╵
+    - 2:9  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+3 │ @import "./custom/setup";
+  │         ^^^^^^^^^^^^^^^^
+  ╵
+    - 3:9  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+4 │ @import "./color_schemes/light";
+  │         ^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    - 4:9  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+6 │ @import "./color_schemes/dark";
+  │         ^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    - 6:9  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+8 │ @import "./modules";
+  │         ^^^^^^^^^^^
+  ╵
+    - 8:9  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.get instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+78 │ $sp-1: map-get($spacers, sp-1) !default; // 0.25 rem == 4px
+   │        ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\support\_variables.scss 78:8  @import
+    support\support.scss 1:9                                                                                     @import
+    - 2:9                                                                                                        root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.get instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+79 │ $sp-2: map-get($spacers, sp-2) !default; // 0.5  rem == 8px
+   │        ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\support\_variables.scss 79:8  @import
+    support\support.scss 1:9                                                                                     @import
+    - 2:9                                                                                                        root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.get instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+80 │ $sp-3: map-get($spacers, sp-3) !default; // 0.75 rem == 12px
+   │        ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\support\_variables.scss 80:8  @import
+    support\support.scss 1:9                                                                                     @import
+    - 2:9                                                                                                        root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.get instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+81 │ $sp-4: map-get($spacers, sp-4) !default; // 1    rem == 16px
+   │        ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\support\_variables.scss 81:8  @import
+    support\support.scss 1:9                                                                                     @import
+    - 2:9                                                                                                        root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.get instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+82 │ $sp-5: map-get($spacers, sp-5) !default; // 1.5  rem == 24px
+   │        ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\support\_variables.scss 82:8  @import
+    support\support.scss 1:9                                                                                     @import
+    - 2:9                                                                                                        root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -42.5%)
+color.adjust($color, $lightness: -3%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+11 │ $feedback-color: darken($sidebar-color, 3%) !default;
+   │                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    color_schemes\light.scss 11:18  @import
+    - 4:9                           root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 23.6111111111%)
+color.adjust($color, $lightness: 10%)
+
+More info: https://sass-lang.com/d/color-functions
+
+  ╷
+5 │ $link-color: lighten($blue-000, 10%);
+  │              ^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    color_schemes\dark.scss 5:14  @import
+    - 6:9                         root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -18.8888888889%)
+color.adjust($color, $lightness: -3%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+12 │ $feedback-color: darken($sidebar-color, 3%);
+   │                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    color_schemes\dark.scss 12:18  @import
+    - 6:9                          root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -7.3913043478%)
+color.adjust($color, $lightness: -5%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+61 │         color: darken($link-color, 5%);
+   │                ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\navigation.scss 61:16  @import
+    modules.scss 8:9                                                                                      @import
+    - 8:9                                                                                                 root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -2.9565217391%)
+color.adjust($color, $lightness: -2%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+38 │     color: darken($link-color, 2%);
+   │            ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\buttons.scss 38:12  @import
+    modules.scss 11:9                                                                                  @import
+    - 8:9                                                                                              root stylesheet
+WARNING: 93 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import "./support/support";
+  │         ^^^^^^^^^^^^^^^^^^^
+  ╵
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-light.scss 2:9  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+3 │ @import "./custom/setup";
+  │         ^^^^^^^^^^^^^^^^
+  ╵
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-light.scss 3:9  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+4 │ @import "./color_schemes/light";
+  │         ^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-light.scss 4:9  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+6 │ @import "./modules";
+  │         ^^^^^^^^^^^
+  ╵
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-light.scss 6:9  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+10 │ @import "./custom/custom";
+   │         ^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-light.scss 10:9  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.get instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+78 │ $sp-1: map-get($spacers, sp-1) !default; // 0.25 rem == 4px
+   │        ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\support\_variables.scss 78:8  @import
+    support\support.scss 1:9                                                                                     @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-light.scss 2:9                          root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.get instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+79 │ $sp-2: map-get($spacers, sp-2) !default; // 0.5  rem == 8px
+   │        ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\support\_variables.scss 79:8  @import
+    support\support.scss 1:9                                                                                     @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-light.scss 2:9                          root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.get instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+80 │ $sp-3: map-get($spacers, sp-3) !default; // 0.75 rem == 12px
+   │        ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\support\_variables.scss 80:8  @import
+    support\support.scss 1:9                                                                                     @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-light.scss 2:9                          root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.get instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+81 │ $sp-4: map-get($spacers, sp-4) !default; // 1    rem == 16px
+   │        ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\support\_variables.scss 81:8  @import
+    support\support.scss 1:9                                                                                     @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-light.scss 2:9                          root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.get instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+82 │ $sp-5: map-get($spacers, sp-5) !default; // 1.5  rem == 24px
+   │        ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\support\_variables.scss 82:8  @import
+    support\support.scss 1:9                                                                                     @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-light.scss 2:9                          root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -42.5%)
+color.adjust($color, $lightness: -3%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+11 │ $feedback-color: darken($sidebar-color, 3%) !default;
+   │                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    color_schemes\light.scss 11:18                                                       @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-light.scss 4:9  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -7.4344023324%)
+color.adjust($color, $lightness: -5%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+61 │         color: darken($link-color, 5%);
+   │                ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\navigation.scss 61:16  @import
+    modules.scss 8:9                                                                                      @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-light.scss 6:9                   root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -2.9737609329%)
+color.adjust($color, $lightness: -2%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+38 │     color: darken($link-color, 2%);
+   │            ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\buttons.scss 38:12  @import
+    modules.scss 11:9                                                                                  @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-light.scss 6:9                root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -1.032388664%)
+color.adjust($color, $lightness: -1%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+46 │     background-color: darken($base-button-color, 1%);
+   │                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\buttons.scss 46:23  @import
+    modules.scss 11:9                                                                                  @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-light.scss 6:9                root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -3.0971659919%)
+color.adjust($color, $lightness: -3%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+52 │     background-color: darken($base-button-color, 3%);
+   │                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    C:\Users\Hp\AppData\Local\Temp\jekyll-remote-theme-20260218-20268-23x8t5\_sass\buttons.scss 52:23  @import
+    modules.scss 11:9                                                                                  @import
+    C:\Users\Hp\Desktop\Jekyll-Site\SignalStack\assets\css\just-the-docs-light.scss 6:9                root stylesheet
+WARNING: 87 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+                    done in 4.691 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.

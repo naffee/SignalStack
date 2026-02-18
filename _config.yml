@@ -1,0 +1,46 @@
+title: SignalStack Docs
+description: Real-time event and notification infrastructure platform documentation.
+url: ""
+
+remote_theme: just-the-docs/just-the-docs
+
+# Color Scheme
+color_scheme: "dark"
+
+# Navigation
+nav_sort: case_insensitive
+
+# Favicon
+favicon_ico: "assets/images/favicon.svg"
+
+# Aux Links
+aux_links:
+  "SignalStack Home":
+    - "/"
+
+# Footer
+footer_content: "© 2024 SignalStack. All rights reserved."
+
+# Search
+search_enabled: true
+search:
+  - name: "v2.0"
+    url: "/v2/"
+    rel: "v2/"
+  - name: "v1.0"
+    url: "/v1/"
+    rel: "v1/"
+
+# Exclude
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag

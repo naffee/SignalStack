@@ -1,0 +1,40 @@
+// SignalStack Dark Theme Configuration
+// Deep Navy / Modern Infrastructure Aesthetic
+
+// Core Colors
+$dark-primary: #0a0c10; // Deepest background (Main content)
+$dark-secondary: #0d1117; // Slightly lighter (Sidebar/Navbar)
+$dark-border: #30363d; // Subtle borders
+$dark-text: #c9d1d9; // High readability text
+$accent-color: #58a6ff; // Electric Blue (Links/Actions)
+$accent-hover: #79c0ff; // Lighter blue for hover
+
+// Theme Variable Overrides (Just the Docs)
+// We provide variables here before the theme defaults are set.
+
+// 1. Backgrounds
+$body-background-color: $dark-primary;
+$sidebar-color: $dark-secondary;
+$code-background-color: #161b22; // Code blocks
+$search-background-color: $dark-primary;
+
+// 2. Text
+$body-text-color: $dark-text;
+$heading-text-color: #f0f6fc; // Brighter headings
+$nav-text-color: $dark-text;
+$code-text-color: $dark-text;
+
+// 3. Links & Accents
+$link-color: $accent-color;
+$nav-active-color: $accent-color;
+
+// 4. Borders
+$border-color: $dark-border;
+
+// 5. Search
+$search-background-color: #161b22;
+$search-input-color: $dark-text;
+$search-border-color: $dark-border;
+
+// 6. Navigation
+$nav-child-link-color: $dark-text;

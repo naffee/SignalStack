@@ -1,0 +1,317 @@
+{"0": {
+    "doc": "Page Not Found",
+    "title": "404",
+    "content": "Signal lost. The page you are looking for does not exist. Return Home Report Issue ",
+    "url": "/404.html",
+    
+    "relUrl": "/404.html"
+  },"1": {
+    "doc": "Page Not Found",
+    "title": "Page Not Found",
+    "content": " ",
+    "url": "/404.html",
+    
+    "relUrl": "/404.html"
+  },"2": {
+    "doc": "Changelog",
+    "title": "Changelog",
+    "content": "All notable changes to SignalStack will be documented in this file. ",
+    "url": "/changelog/",
+    
+    "relUrl": "/changelog/"
+  },"3": {
+    "doc": "Changelog",
+    "title": "[2.0.0] - 2023-11-15",
+    "content": "Added . | Smart Event Routing: Dynamic routing based on payload. | Retry Engine: Configurable retry policies with exponential backoff. | Advanced Analytics: Real-time insights dashboard. | . Changed . | SDK: Complete rewrite of Node.js SDK (signalstack-v2). | API: Standardized response format for all endpoints. | . Deprecated . | v1 SDK: signalstack-v1 is now in maintenance mode. | Basic Triggers: Replaced by Smart Routing rules. | . ",
+    "url": "/changelog/#200---2023-11-15",
+    
+    "relUrl": "/changelog/#200---2023-11-15"
+  },"4": {
+    "doc": "Changelog",
+    "title": "[1.1.0] - 2023-08-01",
+    "content": "Added . | Webhook signature verification. | Improved error messages. | . ",
+    "url": "/changelog/#110---2023-08-01",
+    
+    "relUrl": "/changelog/#110---2023-08-01"
+  },"5": {
+    "doc": "Changelog",
+    "title": "[1.0.0] - 2023-01-10",
+    "content": "Initial Release . | Core Event Dispatching. | Basic Webhook Support. | . ",
+    "url": "/changelog/#100---2023-01-10",
+    
+    "relUrl": "/changelog/#100---2023-01-10"
+  },"6": {
+    "doc": "Features",
+    "title": "New Features in v2.0",
+    "content": "SignalStack v2.0 introduces powerful new capabilities to manage your event streams. ",
+    "url": "/docs/v2/features/#new-features-in-v20",
+    
+    "relUrl": "/docs/v2/features/#new-features-in-v20"
+  },"7": {
+    "doc": "Features",
+    "title": "Smart Event Routing",
+    "content": "Route events to specific endpoints based on payload content. Define routing rules in the dashboard or via API. | Example: Route priority: \"high\" events to a dedicated fast-lane webhook. | . ",
+    "url": "/docs/v2/features/#smart-event-routing",
+    
+    "relUrl": "/docs/v2/features/#smart-event-routing"
+  },"8": {
+    "doc": "Features",
+    "title": "Retry Engine",
+    "content": "Configure automatic retry policies for failed deliveries. | Exponential Backoff: Inteligently wait between retry attempts. | Dead Letter Queues: Capture events that fail after max retries for manual inspection. | . ",
+    "url": "/docs/v2/features/#retry-engine",
+    
+    "relUrl": "/docs/v2/features/#retry-engine"
+  },"9": {
+    "doc": "Features",
+    "title": "Advanced Analytics",
+    "content": "Real-time visibility into your event pipeline. | Delivery Success Rate: Track % of successful deliveries. | Latency Metrics: Monitor end-to-end delivery time. | . ",
+    "url": "/docs/v2/features/#advanced-analytics",
+    
+    "relUrl": "/docs/v2/features/#advanced-analytics"
+  },"10": {
+    "doc": "Features",
+    "title": "Event Filtering",
+    "content": "Filter events at the source before they are dispatched, saving bandwidth and processing power. ",
+    "url": "/docs/v2/features/#event-filtering",
+    
+    "relUrl": "/docs/v2/features/#event-filtering"
+  },"11": {
+    "doc": "Features",
+    "title": "Features",
+    "content": " ",
+    "url": "/docs/v2/features/",
+    
+    "relUrl": "/docs/v2/features/"
+  },"12": {
+    "doc": "Features",
+    "title": "Features (v1.0)",
+    "content": " ",
+    "url": "/docs/v1/features/#features-v10",
+    
+    "relUrl": "/docs/v1/features/#features-v10"
+  },"13": {
+    "doc": "Features",
+    "title": "Event Dispatching",
+    "content": "SignalStack v1.0 provides robust event dispatching capabilities. You can emit events from your application and have them delivered to configured endpoints. Supported Protocols . | HTTP/HTTPS Webhooks | . ",
+    "url": "/docs/v1/features/#event-dispatching",
+    
+    "relUrl": "/docs/v1/features/#event-dispatching"
+  },"14": {
+    "doc": "Features",
+    "title": "Webhook Delivery",
+    "content": "Webhooks are delivered via POST requests with a JSON payload. Payload Structure . { \"event\": \"user.signup\", \"timestamp\": \"2023-10-27T10:00:00Z\", \"data\": { \"userId\": \"12345\", \"email\": \"user@example.com\" } } . ",
+    "url": "/docs/v1/features/#webhook-delivery",
+    
+    "relUrl": "/docs/v1/features/#webhook-delivery"
+  },"15": {
+    "doc": "Features",
+    "title": "Basic Triggers",
+    "content": "Configure triggers in the dashboard to listen for specific event types and fire webhooks. Currently supports exact match on event names. ",
+    "url": "/docs/v1/features/#basic-triggers",
+    
+    "relUrl": "/docs/v1/features/#basic-triggers"
+  },"16": {
+    "doc": "Features",
+    "title": "Features",
+    "content": " ",
+    "url": "/docs/v1/features/",
+    
+    "relUrl": "/docs/v1/features/"
+  },"17": {
+    "doc": "Getting Started",
+    "title": "Getting Started with v2.0 (Latest)",
+    "content": "Welcome to SignalStack v2.0! This guide will help you get up and running with the latest features. ",
+    "url": "/docs/v2/getting-started/#getting-started-with-v20-latest",
+    
+    "relUrl": "/docs/v2/getting-started/#getting-started-with-v20-latest"
+  },"18": {
+    "doc": "Getting Started",
+    "title": "Prerequisites",
+    "content": ". | New Requirement: Node.js 18+ environment (v2 SDK requirement). | existing SignalStack account. | . ",
+    "url": "/docs/v2/getting-started/#prerequisites",
+    
+    "relUrl": "/docs/v2/getting-started/#prerequisites"
+  },"19": {
+    "doc": "Getting Started",
+    "title": "Installation",
+    "content": "Install the new v2 SDK: . npm install signalstack-v2 . ",
+    "url": "/docs/v2/getting-started/#installation",
+    
+    "relUrl": "/docs/v2/getting-started/#installation"
+  },"20": {
+    "doc": "Getting Started",
+    "title": "Quick Start",
+    "content": "Initialize the client with enhanced configuration options: . import { SignalStackClient } from 'signalstack-v2'; const client = new SignalStackClient({ apiKey: process.env.SIGNALSTACK_API_KEY, options: { retry: true, // Enable automatic retries timeout: 5000 // 5s timeout } }); await client.events.emit('order.created', { orderId: '98765', amount: 49.99 }); . See Migration Guide if upgrading from v1. ",
+    "url": "/docs/v2/getting-started/#quick-start",
+    
+    "relUrl": "/docs/v2/getting-started/#quick-start"
+  },"21": {
+    "doc": "Getting Started",
+    "title": "Getting Started",
+    "content": " ",
+    "url": "/docs/v2/getting-started/",
+    
+    "relUrl": "/docs/v2/getting-started/"
+  },"22": {
+    "doc": "Getting Started",
+    "title": "Getting Started with v1.0",
+    "content": "Follow these steps to integrate SignalStack v1.0 into your application. ",
+    "url": "/docs/v1/getting-started/#getting-started-with-v10",
+    
+    "relUrl": "/docs/v1/getting-started/#getting-started-with-v10"
+  },"23": {
+    "doc": "Getting Started",
+    "title": "Prerequisites",
+    "content": ". | Ensure you have an active SignalStack account. | Obtain your API Key from the dashboard. | . ",
+    "url": "/docs/v1/getting-started/#prerequisites",
+    
+    "relUrl": "/docs/v1/getting-started/#prerequisites"
+  },"24": {
+    "doc": "Getting Started",
+    "title": "Installation",
+    "content": "Install the SignalStack client library: . npm install signalstack-v1 . ",
+    "url": "/docs/v1/getting-started/#installation",
+    
+    "relUrl": "/docs/v1/getting-started/#installation"
+  },"25": {
+    "doc": "Getting Started",
+    "title": "Basic Usage",
+    "content": "Initialize the client and emit an event: . const SignalStack = require('signalstack-v1'); const client = new SignalStack('YOUR_API_KEY'); client.emit('user.signup', { userId: '12345', email: 'user@example.com' }); . This will trigger any webhooks configured for the user.signup event. ",
+    "url": "/docs/v1/getting-started/#basic-usage",
+    
+    "relUrl": "/docs/v1/getting-started/#basic-usage"
+  },"26": {
+    "doc": "Getting Started",
+    "title": "Getting Started",
+    "content": " ",
+    "url": "/docs/v1/getting-started/",
+    
+    "relUrl": "/docs/v1/getting-started/"
+  },"27": {
+    "doc": "Version 2.0",
+    "title": "SignalStack v2.0 Documentation (Latest)",
+    "content": "Welcome to the documentation for SignalStack v2.0. This major upgrade introduces advanced capabilities for smarter system behavior and improved performance. ",
+    "url": "/docs/v2/#signalstack-v20-documentation-latest",
+    
+    "relUrl": "/docs/v2/#signalstack-v20-documentation-latest"
+  },"28": {
+    "doc": "Version 2.0",
+    "title": "What’s New in v2.0",
+    "content": ". | Smart Event Routing: Dynamically route events based on payload content and metadata. | Retry Engine: Configurable retry policies with exponential backoff for failed deliveries. | Advanced Analytics: Real-time insights into event delivery success rates and latency. | Event Filtering: Granular control over which events trigger notifications. | . ",
+    "url": "/docs/v2/#whats-new-in-v20",
+    
+    "relUrl": "/docs/v2/#whats-new-in-v20"
+  },"29": {
+    "doc": "Version 2.0",
+    "title": "Getting Started",
+    "content": "Head over to the Getting Started guide to set up your integration with the powerful new features of SignalStack v2.0. ",
+    "url": "/docs/v2/#getting-started",
+    
+    "relUrl": "/docs/v2/#getting-started"
+  },"30": {
+    "doc": "Version 2.0",
+    "title": "Version 2.0",
+    "content": " ",
+    "url": "/docs/v2/",
+    
+    "relUrl": "/docs/v2/"
+  },"31": {
+    "doc": "Version 1.0",
+    "title": "SignalStack v1.0 Documentation (Legacy)",
+    "content": "Welcome to the documentation for SignalStack v1.0. This version is the foundation release focusing on core event dispatching and webhook delivery. ",
+    "url": "/docs/v1/#signalstack-v10-documentation-legacy",
+    
+    "relUrl": "/docs/v1/#signalstack-v10-documentation-legacy"
+  },"32": {
+    "doc": "Version 1.0",
+    "title": "Key Features",
+    "content": ". | Event Dispatching: Reliable delivery of events to your subscribed endpoints. | Webhooks: Simple HTTP callbacks for real-time notifications. | Basic Triggers: Define actions based on specific event types. | . ",
+    "url": "/docs/v1/#key-features",
+    
+    "relUrl": "/docs/v1/#key-features"
+  },"33": {
+    "doc": "Version 1.0",
+    "title": "Getting Started",
+    "content": "Check out the Getting Started guide to integrate SignalStack v1.0 into your application. ",
+    "url": "/docs/v1/#getting-started",
+    
+    "relUrl": "/docs/v1/#getting-started"
+  },"34": {
+    "doc": "Version 1.0",
+    "title": "Version 1.0",
+    "content": " ",
+    "url": "/docs/v1/",
+    
+    "relUrl": "/docs/v1/"
+  },"35": {
+    "doc": "Home",
+    "title": "SignalStack Documentation",
+    "content": "Welcome to the SignalStack developer hub. Build reliable, scalable notification infrastructure with our real-time event platform. Event Dispatching • Intelligent Routing • Real-time Webhooks Get Started with v2.0 (Latest) View Changelog . ",
+    "url": "/#signalstack-documentation",
+    
+    "relUrl": "/#signalstack-documentation"
+  },"36": {
+    "doc": "Home",
+    "title": "Select Documentation Version",
+    "content": "Version 2.0 (Latest) . Recommended for all new integrations. Features Smart Event Routing, Retry Engine, and advanced analytics. Explore v2.0 Version 1.0 (Legacy) . Maintenance mode. Covers basic Event Dispatching and Webhook Delivery. View v1.0 ",
+    "url": "/#select-documentation-version",
+    
+    "relUrl": "/#select-documentation-version"
+  },"37": {
+    "doc": "Home",
+    "title": "Resources",
+    "content": ". | Migration Guide: Step-by-step guide to upgrade from v1.0 to v2.0. | Changelog: Track feature updates and breaking changes. | . ",
+    "url": "/#resources",
+    
+    "relUrl": "/#resources"
+  },"38": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"39": {
+    "doc": "Migration Guide",
+    "title": "Migration Guide: v1.0 → v2.0",
+    "content": "This guide will help you upgrade your integration from SignalStack v1.0 to v2.0. ",
+    "url": "/migration-guide/#migration-guide-v10--v20",
+    
+    "relUrl": "/migration-guide/#migration-guide-v10--v20"
+  },"40": {
+    "doc": "Migration Guide",
+    "title": "Overview",
+    "content": "Version 2.0 introduces a new SDK and improved API structure. While the core concepts remain the same, there are some breaking changes you need to be aware of. ",
+    "url": "/migration-guide/#overview",
+    
+    "relUrl": "/migration-guide/#overview"
+  },"41": {
+    "doc": "Migration Guide",
+    "title": "Breaking Changes",
+    "content": "SDK Import . The SDK package name has changed. v1.0 . const SignalStack = require('signalstack-v1'); . v2.0 . import { SignalStackClient } from 'signalstack-v2'; . Authentication . API Keys are now passed in a configuration object, not as a direct string argument. v1.0 . const client = new SignalStack('MY_KEY'); . v2.0 . const client = new SignalStackClient({ apiKey: 'MY_KEY' }); . ",
+    "url": "/migration-guide/#breaking-changes",
+    
+    "relUrl": "/migration-guide/#breaking-changes"
+  },"42": {
+    "doc": "Migration Guide",
+    "title": "Deprecated Features",
+    "content": ". | Basic Triggers: The “Triggers” tab in the dashboard has been replaced by “Routing Rules”. Your existing triggers have been automatically migrated to simple rules. | . ",
+    "url": "/migration-guide/#deprecated-features",
+    
+    "relUrl": "/migration-guide/#deprecated-features"
+  },"43": {
+    "doc": "Migration Guide",
+    "title": "Step-by-Step Upgrade",
+    "content": ". | Update your dependency to signalstack-v2. | Update your client initialization code. | Verify your event payloads match the v2 schema (mostly backward compatible). | Test your integration in the sandbox environment. | . ",
+    "url": "/migration-guide/#step-by-step-upgrade",
+    
+    "relUrl": "/migration-guide/#step-by-step-upgrade"
+  },"44": {
+    "doc": "Migration Guide",
+    "title": "Migration Guide",
+    "content": " ",
+    "url": "/migration-guide/",
+    
+    "relUrl": "/migration-guide/"
+  }
+}

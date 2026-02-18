@@ -1,0 +1,16 @@
+C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/safe_yaml-1.0.5/lib/safe_yaml/transform.rb:1: warning: base64 was loaded from the standard library, but is not part of the default gems starting from Ruby 3.4.0.
+You can add base64 to your Gemfile or gemspec to silence this warning.
+C:/Ruby34-x64/lib/ruby/3.4.0/bundled_gems.rb:82:in 'Kernel.require': cannot load such file -- base64 (LoadError)
+	from C:/Ruby34-x64/lib/ruby/3.4.0/bundled_gems.rb:82:in 'block (2 levels) in Kernel#replace_require'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/safe_yaml-1.0.5/lib/safe_yaml/transform.rb:1:in '<top (required)>'
+	from C:/Ruby34-x64/lib/ruby/3.4.0/bundled_gems.rb:82:in 'Kernel.require'
+	from C:/Ruby34-x64/lib/ruby/3.4.0/bundled_gems.rb:82:in 'block (2 levels) in Kernel#replace_require'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/safe_yaml-1.0.5/lib/safe_yaml/load.rb:22:in '<top (required)>'
+	from C:/Ruby34-x64/lib/ruby/3.4.0/bundled_gems.rb:82:in 'Kernel.require'
+	from C:/Ruby34-x64/lib/ruby/3.4.0/bundled_gems.rb:82:in 'block (2 levels) in Kernel#replace_require'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/jekyll-4.3.4/lib/jekyll.rb:34:in '<top (required)>'
+	from C:/Ruby34-x64/lib/ruby/3.4.0/bundled_gems.rb:82:in 'Kernel.require'
+	from C:/Ruby34-x64/lib/ruby/3.4.0/bundled_gems.rb:82:in 'block (2 levels) in Kernel#replace_require'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/jekyll-4.3.4/exe/jekyll:8:in '<top (required)>'
+	from C:/Ruby34-x64/bin/jekyll:25:in 'Kernel#load'
+	from C:/Ruby34-x64/bin/jekyll:25:in '<main>'
