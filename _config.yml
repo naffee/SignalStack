@@ -1,6 +1,7 @@
 title: SignalStack Docs
 description: Real-time event and notification infrastructure platform documentation.
-url: ""
+url: "https://naffee.github.io"
+baseurl: "/SignalStack"
 
 remote_theme: just-the-docs/just-the-docs
 
